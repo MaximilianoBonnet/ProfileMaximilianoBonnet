@@ -1,0 +1,38 @@
+body {
+    background-image: url("imagenes/fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+.accordion-header {
+    background-color: #8b71a5;
+    width: auto;
+    height: auto;
+    text-align: auto;
+    padding-left: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-right: 1%;
+    border: 3%;
+    margin-top: 1%;
+    border-radius: 20px;
+    text-justify: auto;
+    text-decoration-color: black;
+}
+
+.accordion {
+    background-color: #8b71a5;
+    width: auto;
+    height: auto;
+    text-align: auto;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border: 3%;
+    margin-top: 1%;
+    border-radius: 20px;
+    text-justify: auto;
+    text-decoration-color: black;
+}
